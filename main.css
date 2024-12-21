@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #ddd;
+}
+.gallery-item {
+  margin-bottom: 10px; 
+  margin-right: 10px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
